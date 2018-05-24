@@ -1,0 +1,7 @@
+D:\c\C#\Grade6.9\Grade6.9\obj\Debug\Grade6.9.csprojAssemblyReference.cache
+D:\c\C#\Grade6.9\Grade6.9\obj\Debug\Grade6.9.csproj.CoreCompileInputs.cache
+D:\c\C#\Grade6.9\Grade6.9\bin\Debug\Grade6.9.exe.config
+D:\c\C#\Grade6.9\Grade6.9\bin\Debug\Grade6.9.exe
+D:\c\C#\Grade6.9\Grade6.9\bin\Debug\Grade6.9.pdb
+D:\c\C#\Grade6.9\Grade6.9\obj\Debug\Grade6.9.exe
+D:\c\C#\Grade6.9\Grade6.9\obj\Debug\Grade6.9.pdb
